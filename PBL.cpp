@@ -10,7 +10,7 @@ class khachhang{
 		int stt;
 	public:
 		khachhang(int stt){
-			
+		cout<<"khach hang ne:";
 		}
 };
 class thucdon{
